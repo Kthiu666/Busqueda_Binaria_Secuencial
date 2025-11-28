@@ -6,6 +6,9 @@ import unl.cc.algoritmos.SequentialSearch;
 import unl.cc.algoritmos.BinarySearch;
 import unl.cc.algoritmos.Predicates;
 import unl.cc.util.Utilities;
+import unl.cc.data.Node;
+import unl.cc.util.SinglyLinkedList;
+import unl.cc.algoritmos.SequentialSearch;
 
 import java.util.Arrays;
 import java.util.List;
