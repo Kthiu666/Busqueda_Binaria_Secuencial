@@ -77,3 +77,30 @@ Nodos < 3: [1, 2]
 
 Original: [5, 4, 3, 2, 1]
 Ordenado: [1, 2, 3, 4, 5]
+
+
+ESTRUCTURA DEL PROYECTO
+
+taller7-busqueda/
+│
+└── src/
+    └── main/
+        └── java/
+            └── edu/tuinstitucion/busqueda/
+                │
+                ├── data/
+                │   ├── Datasets.java
+                │   └── Node.java
+                │
+                ├── algorithms/
+                │   ├── SequentialSearch.java
+                │   ├── BinarySearch.java
+                │   └── Predicates.java
+                │
+                ├── demo/
+                │   └── SearchDemo.java
+                │
+                └── util/
+                    └── LinkedListBuilder.java
+                    └── Utilities.java
+
