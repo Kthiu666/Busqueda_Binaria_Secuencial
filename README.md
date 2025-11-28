@@ -81,6 +81,7 @@ Ordenado: [1, 2, 3, 4, 5]
 
 ESTRUCTURA DEL PROYECTO
 
+```text
 taller7-busqueda/
 │
 └── src/
